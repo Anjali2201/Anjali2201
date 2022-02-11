@@ -11,9 +11,9 @@
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Anjali2201&langs_count=5&theme=tokyonight)]()
 </div>
 
-## ✉️ Social Media Links:
-<hr>
-<div id="badges">
+<div id="badges" align="center">
+
+## Social Media Links:
   <a href="https://www.linkedin.com/in/anjallliii/">
     <img src="https://img.shields.io/badge/anjali2201-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -24,9 +24,4 @@
     <img src="https://img.shields.io/badge/GMail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
-
-
-
-
-
 <br />
