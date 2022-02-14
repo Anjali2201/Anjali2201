@@ -8,9 +8,6 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Anjali2201&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Anjali2201&count_private=true&theme=tokyonight&showicons=true)]()
-
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Anjali2201&langs_count=5&theme=tokyonight)]()
 </div>
 
