@@ -12,10 +12,12 @@
 </div>
 <br>
 
-##  Recent Activity
-<hr>
+<!-- ##  Recent Activity
+<hr> -->
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
+
+
 <div id="badges" align="center">
 
 ## Social Media Links:
