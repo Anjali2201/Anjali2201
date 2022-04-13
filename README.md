@@ -15,6 +15,11 @@
 <!-- ##  Recent Activity
 <hr> -->
 <!--START_SECTION:activity-->
+1. ❌ Closed PR [#4](https://github.com/tcb-website/tcbwebsite/pull/4) in [tcb-website/tcbwebsite](https://github.com/tcb-website/tcbwebsite)
+2. 🗣 Commented on [#4](https://github.com/tcb-website/tcbwebsite/issues/4) in [tcb-website/tcbwebsite](https://github.com/tcb-website/tcbwebsite)
+3. 🎉 Merged PR [#3](https://github.com/tcb-website/tcbwebsite/pull/3) in [tcb-website/tcbwebsite](https://github.com/tcb-website/tcbwebsite)
+4. 🎉 Merged PR [#2](https://github.com/tcb-website/tcbwebsite/pull/2) in [tcb-website/tcbwebsite](https://github.com/tcb-website/tcbwebsite)
+5. 💪 Opened PR [#2](https://github.com/tcb-website/tcbwebsite/pull/2) in [tcb-website/tcbwebsite](https://github.com/tcb-website/tcbwebsite)
 <!--END_SECTION:activity-->
 
 
