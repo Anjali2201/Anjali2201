@@ -23,5 +23,33 @@
   <a href="mailto:anjalikushwaha031@gmail.com">
     <img src="https://img.shields.io/badge/GMail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
+
+<br>
+
+  ##  Skills
+  <hr>
+<img height = "80px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/html.svg"></img>
+<img height = "80px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/css.svg" /> 
+<img height = "80px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/javascript.svg" />
+
+<img height = "80px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/nodejs.svg" />
+<img height = "80px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/vscode.svg" />
+<img height = "80px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/github.svg" />
+
+<img height = "80px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/sql.svg" />
+
+<img height = "80px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/firebase.svg" />
+
+<img height = "80px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/git.svg"></img>
+
+<img height = "80px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c.svg" />
+
+
+<img height = "80px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/react.svg" />
+
+<img height = "80px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" />
+
+
 </div>
+
 <br />
