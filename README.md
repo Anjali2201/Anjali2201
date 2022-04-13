@@ -10,7 +10,12 @@
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Anjali2201&langs_count=5&theme=tokyonight)]()
 </div>
+<br>
 
+##  Recent Activity
+<hr>
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 <div id="badges" align="center">
 
 ## Social Media Links:
