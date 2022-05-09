@@ -5,7 +5,7 @@
  
   <h1>Hi, I'm Anjali</h1>
   <a href="https://anjali2201.github.io/portfolio-web/" >About me!</a>
-   <hr>
+   
 </div>
 <br>
 
@@ -37,46 +37,46 @@
 <table align= "center">
   <td align="center"  width="240" height="112.43">
   <a href="https://www.linkedin.com/in/anjallliii/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="80">
-  </br>
+  
  <a href="mailto:anjalikushwaha031@gmail.com">
     <img src="gmail.png" alt="Gmail Badge" width="80"></a>
 </td>
 </table>
-<br>
 
 
-  ##  Skills
+
+  ##  Skills:
   <hr>
 <table align= "center"><tr>
 <td align="center" width="140" height="112.43">
-<img height = "50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/html.svg"></img></td></br>
+<img height = "50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/html.svg"></img></td>
 
 <td align="center" width="140" height="112.43">
-<img height = "50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/css.svg" /></td></br> 
+<img height = "50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/css.svg" /></td> 
 
 <td align="center" width="140" height="112.43">
-<img height = "50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/javascript.svg" /></td></br>
+<img height = "50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/javascript.svg" /></td>
 
 <td align="center" width="140" height="112.43">
-<img height = "50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/react.svg" /></td></br>
+<img height = "50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/react.svg" /></td>
 
 <td align="center" width="140" height="112.43">
-<img height = "50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/vscode.svg" /></td></br>
+<img height = "50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/vscode.svg" /></td>
 
 <td align="center" width="140" height="112.43">
-<img height = "50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/github.svg" /></td></br>
+<img height = "50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/github.svg" /></td>
 
 <td align="center" width="140" height="112.43">
-<img height = "50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/git.svg"></img></td></br>
+<img height = "50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/git.svg"></img></td>
 
 <td align="center" width="140" height="112.43">
-<img height = "50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c.svg" /></td></br>
+<img height = "50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c.svg" /></td>
 
 <td align="center" width="140" height="112.43">
-<img height = "50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/java.svg" /></td></br>
+<img height = "50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/java.svg" /></td>
 
 <td align="center" width="140" height="112.43">
-<img height = "50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" /></td></br>
+<img height = "50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" /></td>
 
 </tr></table>
 <p align="center">
