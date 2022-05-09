@@ -1,31 +1,28 @@
 <hr>
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" width="100"/>
-  <hr>
-</div>
-
-<div align="center">
-
-<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Anjali2201&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)-->
-
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Anjali2201&langs_count=5&theme=tokyonight)]()
+ 
+  <h1>Hi, I'm Anjali</h1>
+  <a href="https://anjali2201.github.io/portfolio-web/" >About me!</a>
+   <hr>
 </div>
 <br>
 
-<!-- ##  Recent Activity
-<hr> -->
-<!--START_SECTION:activity-->
-1. ❌ Closed PR [#4](https://github.com/tcb-website/tcbwebsite/pull/4) in [tcb-website/tcbwebsite](https://github.com/tcb-website/tcbwebsite)
-2. 🗣 Commented on [#4](https://github.com/tcb-website/tcbwebsite/issues/4) in [tcb-website/tcbwebsite](https://github.com/tcb-website/tcbwebsite)
-3. 🎉 Merged PR [#3](https://github.com/tcb-website/tcbwebsite/pull/3) in [tcb-website/tcbwebsite](https://github.com/tcb-website/tcbwebsite)
-4. 🎉 Merged PR [#2](https://github.com/tcb-website/tcbwebsite/pull/2) in [tcb-website/tcbwebsite](https://github.com/tcb-website/tcbwebsite)
-5. 💪 Opened PR [#2](https://github.com/tcb-website/tcbwebsite/pull/2) in [tcb-website/tcbwebsite](https://github.com/tcb-website/tcbwebsite)
-<!--END_SECTION:activity-->
+
+<!-- <div align="center">
+<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Anjali2201&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+<!-- [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Anjali2201&langs_count=5&theme=tokyonight)]()
+</div> --> 
 
 
-<div id="badges" align="center">
 
-## Social Media Links:
+
+
+
+## You can reach me:
+<!-- <td align="center"  width="140" height="112.43">
   <a href="https://www.linkedin.com/in/anjallliii/">
     <img src="https://img.shields.io/badge/anjali2201-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -34,33 +31,65 @@
   </a>
   <a href="mailto:anjalikushwaha031@gmail.com">
     <img src="https://img.shields.io/badge/GMail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
+  </a> -->
 
 <br>
+<table align= "center">
+  <td align="center"  width="240" height="112.43">
+  <a href="https://www.linkedin.com/in/anjallliii/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="80">
+  </br>
+ <a href="mailto:anjalikushwaha031@gmail.com">
+    <img src="gmail.png" alt="Gmail Badge" width="80"></a>
+</td>
+</table>
+<br>
+
 
   ##  Skills
   <hr>
-<img height = "80px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/html.svg"></img>
+<table align= "center"><tr>
+<td align="center" width="140" height="112.43">
+<img height = "50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/html.svg"></img></td></br>
 
-<img height = "80px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/css.svg" /> 
+<td align="center" width="140" height="112.43">
+<img height = "50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/css.svg" /></td></br> 
 
-<img height = "80px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/javascript.svg" />
-<img height = "80px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/react.svg" />
+<td align="center" width="140" height="112.43">
+<img height = "50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/javascript.svg" /></td></br>
 
+<td align="center" width="140" height="112.43">
+<img height = "50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/react.svg" /></td></br>
 
-<img height = "80px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/vscode.svg" />
-<img height = "80px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/github.svg" />
+<td align="center" width="140" height="112.43">
+<img height = "50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/vscode.svg" /></td></br>
 
-<img height = "80px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/git.svg"></img>
+<td align="center" width="140" height="112.43">
+<img height = "50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/github.svg" /></td></br>
 
-<img height = "80px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c.svg" />
-<img height = "80px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/java.svg" />
+<td align="center" width="140" height="112.43">
+<img height = "50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/git.svg"></img></td></br>
 
+<td align="center" width="140" height="112.43">
+<img height = "50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c.svg" /></td></br>
 
+<td align="center" width="140" height="112.43">
+<img height = "50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/java.svg" /></td></br>
 
-<img height = "80px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" />
+<td align="center" width="140" height="112.43">
+<img height = "50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" /></td></br>
 
+</tr></table>
+<p align="center">
+   
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Anjali2201&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/>
+</p>
 
-</div>
+ <p align="center">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+</p>
 
-<br />
+##  Recent Activity
+<hr>
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
