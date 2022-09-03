@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" width="100"/>
  
   <h1>Hi, I'm Anjali</h1>
-  <a href="https://anjali2201.github.io/portfolio-web/" >About me!</a>
+  <a href="https://anjali2201.github.io/portfolio-web/" >Want to know more About me?</a>
    
 </div>
 <br>
@@ -45,7 +45,7 @@
 
 
 
-  ##  Skills:
+  <!-- ##  Skills:
   <hr>
 <table align= "center"><tr>
 <td align="center" width="140" height="112.43">
@@ -54,10 +54,10 @@
 <td align="center" width="140" height="112.43">
 <img height = "50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/css.svg" /></td> 
 
-<td align="center" width="140" height="112.43">
-<img height = "50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/javascript.svg" /></td>
+<!-- <td align="center" width="140" height="112.43">
+<img height = "50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/javascript.svg" /></td> -->
 
-<td align="center" width="140" height="112.43">
+<!-- <td align="center" width="140" height="112.43">
 <img height = "50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/react.svg" /></td>
 
 <td align="center" width="140" height="112.43">
@@ -67,25 +67,27 @@
 <img height = "50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/github.svg" /></td>
 
 <td align="center" width="140" height="112.43">
-<img height = "50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/git.svg"></img></td>
+<img height = "50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/git.svg"></img></td> -->
 
-<td align="center" width="140" height="112.43">
-<img height = "50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c.svg" /></td>
+<!-- <td align="center" width="140" height="112.43">
+<img height = "50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c.svg" /></td> -->
 
-<td align="center" width="140" height="112.43">
+<!-- <td align="center" width="140" height="112.43">
 <img height = "50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/java.svg" /></td>
 
 <td align="center" width="140" height="112.43">
 <img height = "50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" /></td>
 
-</tr></table>
+</tr></table> --> 
 <p align="center">
    
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Anjali2201&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/>
 </p>
 
- <p align="center">
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
-</p>
+ <!-- <p align="center">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
+  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
+  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+</p> -->
 
 
