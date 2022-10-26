@@ -22,9 +22,9 @@
 
 
 
-
+<!--
 ## You can reach me:
-<!-- <td align="center"  width="140" height="112.43">
+<td align="center"  width="140" height="112.43">
   <a href="https://www.linkedin.com/in/anjallliii/">
     <img src="https://img.shields.io/badge/anjali2201-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -33,7 +33,7 @@
   </a>
   <a href="mailto:anjalikushwaha031@gmail.com">
     <img src="https://img.shields.io/badge/GMail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a> -->
+  </a>
 
 <br>
 <table align= "center">
@@ -43,7 +43,7 @@
  <a href="mailto:anjalikushwaha031@gmail.com">
     <img src="gmail.png" alt="Gmail Badge" width="80"></a>
 </td>
-</table>
+</table> -->
 
 
 
@@ -83,7 +83,7 @@
 </tr></table> --> 
 <p align="center">
    
-  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=anjali2201&theme=vision-friendly-dark&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=anjali2201&theme=github-dark&hide_border=true" />
 </p>
 
  <!-- <p align="center">
