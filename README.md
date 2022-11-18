@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" width="100"/>
  
   <h1>Hi, I'm Anjali</h1>
-  <a href="https://anjali2201.github.io/portfolio-web/" >Want to know more About me?</a>
+  <a href="https://anjali-web.netlify.app/" >Want to know more About me?</a>
    
 </div>
 <br>
@@ -81,10 +81,7 @@
 <img height = "50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" /></td>
 
 </tr></table> --> 
-<p align="center">
-   
-  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=anjali2201&theme=github-dark&hide_border=true" />
-</p>
+
  
  <!-- <p align="center">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
