@@ -3,7 +3,7 @@
 <div align="center">
  
   <h1>Hi, I'm Anjali</h1>
-  <img src="OIP.jpeg"  align="center" />
+  <img src="https://user-images.githubusercontent.com/86847380/209735508-394d059c-3af9-40e4-8ee7-c2d7959cb07f.jpeg"  align="center" />
    
 </div>
 
