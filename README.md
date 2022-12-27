@@ -3,7 +3,7 @@
 <div align="center">
  
   <h1>Hi, I'm Anjali</h1>
-  <img src="./OIP.jpeg"  align="center" />
+  <img src="OIP.jpeg"  align="center" />
    
 </div>
 
